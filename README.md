@@ -1,6 +1,6 @@
 # Hey there! My name's Jack Audino
   - I'm interested in Computing Security
-  - I'm currently learning more about the field by reading [Gray Hat Python](https://www.amazon.com/Gray-Hat-Python-Programming-Engineers/dp/1593271921)
+  - I'm currently learning more about the field by reading [Black Hat Python](https://www.amazon.com/Black-Hat-Python-Programming-Pentesters/dp/1593275900)
   - I know:
     - ```Python```
     - ```Java```
