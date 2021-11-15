@@ -4,6 +4,10 @@
   - I know:
     - ```Python```
     - ```Java```
+  - I'm learning:
+    - ```C```
+    - ```x86 Assembly```
+    - ```Rust```
   - I'm studying Computing Security at Rochester Insitute of Technology
   - I'm looking to collaborate on any Computing Security-related projects, I want to get as much experience as possible!
   - I find ```Penetration Testing``` and ```Malware Reverse-Engineering/Decompiling``` really interesting
